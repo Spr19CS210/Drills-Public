@@ -1,4 +1,4 @@
-package edu.uacs210fall2018.drill00;
+package edu.spr19cs210.drill00;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
